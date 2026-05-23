@@ -11,7 +11,7 @@
 
 ### 🙋‍♂️ About Me
 
-I'm a ** AI Data Engineer** with 1+ year of production experience building scalable data pipelines, AI-powered ETL automation, and financial data infrastructure in the **Fintech** domain.
+I'm a **AI Data Engineer** with 1+ year of production experience building scalable data pipelines, AI-powered ETL automation, and financial data infrastructure in the **Fintech** domain.
 
 - 🏗️ &nbsp;Built production **Apache Airflow DAGs** for end-to-end ETL across financial data sources — with retry logic, SLA monitoring & AI-based failure alerting, achieving a **~90% pipeline failure rate reduction**
 - ☁️ &nbsp;Experienced with **Azure** (ADF, Databricks, ADLS, Synapse) and open-source ETL migration to cut cloud costs
