@@ -11,7 +11,7 @@
 
 ### 🙋‍♂️ About Me
 
-I'm a **Data Engineer** with 1+ year of production experience building scalable data pipelines, AI-powered ETL automation, and financial data infrastructure in the **Fintech** domain.
+I'm a ** AI Data Engineer** with 1+ year of production experience building scalable data pipelines, AI-powered ETL automation, and financial data infrastructure in the **Fintech** domain.
 
 - 🏗️ &nbsp;Built production **Apache Airflow DAGs** for end-to-end ETL across financial data sources — with retry logic, SLA monitoring & AI-based failure alerting, achieving a **~90% pipeline failure rate reduction**
 - ☁️ &nbsp;Experienced with **Azure** (ADF, Databricks, ADLS, Synapse) and open-source ETL migration to cut cloud costs
@@ -19,14 +19,14 @@ I'm a **Data Engineer** with 1+ year of production experience building scalable 
 - 🏦 &nbsp;Processed large-scale messy financial datasets — **up to 1.5 crore records (19 GB)** — from ROC, MSME, GST, and core banking sources for AML, fraud detection & credit risk ML models
 - 🎓 &nbsp;B.Tech CSE @ Medi-Caps University, Indore | GPA: **8.53**
 - 💬 &nbsp;Ask me about **Airflow, PySpark, Azure Data Stack, Delta Lake, or AI pipelines**
-- 📫 &nbsp;Reach me at **ramaniyogesh06@gmail.com** · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-ID)
+- 📫 &nbsp;Reach me at **ramaniyogesh06@gmail.com** · [LinkedIn](https://www.linkedin.com/in/yogeshctos/)
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
+  <a href="https://www.linkedin.com/in/yogeshctos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
